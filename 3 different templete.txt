@@ -1,0 +1,123 @@
+RID: 33YKYFE1016	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Query: unnamed protein product ID: lcl|Query_9292778(amino acid) Length: 1863
+Database: pdb PDB protein database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Chain X, BREAST CANCER TYPE 1 SUSCEPTIBILITY PROTEIN [Homo...     Homo sapiens    human           9606       468    468   11%   2e-152 100.00 214        1JNX_X           
+Chain A, Breast cancer type 1 susceptibility protein [Homo...     Homo sapiens    human           9606       466    466   11%   8e-152 99.53  214        3PXE_A           
+Chain A, TNF receptor-associated factor 6 [Homo sapiens]          Homo sapiens    human           9606       43.9   43.9  2%    8e-05  43.90  63         2JMD_A           
+
+Alignments:
+
+>Chain X, BREAST CANCER TYPE 1 SUSCEPTIBILITY PROTEIN [Homo sapiens]
+Sequence ID: 1JNX_X Length: 214
+>Chain A, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 1T15_A Length: 214
+>Chain A, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 1T29_A Length: 214
+>Chain A, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 1T2V_A Length: 214
+>Chain B, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 1T2V_B Length: 214
+>Chain C, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 1T2V_C Length: 214
+>Chain D, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 1T2V_D Length: 214
+>Chain E, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 1T2V_E Length: 214
+>Chain A, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 1Y98_A Length: 214
+>Chain A, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 4IFI_A Length: 214
+>Chain A, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 4IGK_A Length: 214
+>Chain B, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 4IGK_B Length: 214
+>Chain A, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 4OFB_A Length: 214
+>Chain A, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 4U4A_A Length: 214
+>Chain B, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 4U4A_B Length: 214
+>Chain C, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 4U4A_C Length: 214 
+Range 1: 1 to 214
+
+Score:468 bits(1203), Expect:2e-152, 
+Method:Composition-based stats., 
+Identities:214/214(100%), Positives:214/214(100%), Gaps:0/214(0%)
+
+Query  1646  VNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFL  1705
+             VNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFL
+Sbjct  1     VNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFL  60
+
+Query  1706  GIAGGKWVVSYFWVTQSIKERKMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFRGLE  1765
+             GIAGGKWVVSYFWVTQSIKERKMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFRGLE
+Sbjct  61    GIAGGKWVVSYFWVTQSIKERKMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFRGLE  120
+
+Query  1766  ICCYGPFTNMPTDQLEWMVQLCGASVVKELSSFTLGTGVHPIVVVQPDAWTEDNGFHAIG  1825
+             ICCYGPFTNMPTDQLEWMVQLCGASVVKELSSFTLGTGVHPIVVVQPDAWTEDNGFHAIG
+Sbjct  121   ICCYGPFTNMPTDQLEWMVQLCGASVVKELSSFTLGTGVHPIVVVQPDAWTEDNGFHAIG  180
+
+Query  1826  QMCEAPVVTREWVLDSVALYQCQELDTYLIPQIP  1859
+             QMCEAPVVTREWVLDSVALYQCQELDTYLIPQIP
+Sbjct  181   QMCEAPVVTREWVLDSVALYQCQELDTYLIPQIP  214
+
+
+
+
+>Chain A, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 3PXE_A Length: 214
+>Chain B, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 3PXE_B Length: 214
+>Chain C, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 3PXE_C Length: 214
+>Chain D, Breast cancer type 1 susceptibility protein [Homo sapiens]
+Sequence ID: 3PXE_D Length: 214 
+Range 1: 1 to 214
+
+Score:466 bits(1199), Expect:8e-152, 
+Method:Composition-based stats., 
+Identities:213/214(99%), Positives:214/214(100%), Gaps:0/214(0%)
+
+Query  1646  VNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFL  1705
+             VNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFL
+Sbjct  1     VNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFL  60
+
+Query  1706  GIAGGKWVVSYFWVTQSIKERKMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFRGLE  1765
+             GIAGGKWVVSYFWVTQSIKERKMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFRGLE
+Sbjct  61    GIAGGKWVVSYFWVTQSIKERKMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFRGLE  120
+
+Query  1766  ICCYGPFTNMPTDQLEWMVQLCGASVVKELSSFTLGTGVHPIVVVQPDAWTEDNGFHAIG  1825
+             ICCYGPFTNMPTDQLEWMVQLCGASVVKELSSFTLGTGVHPIVVVQPDAWTEDNGFHAIG
+Sbjct  121   ICCYGPFTNMPTDQLEWMVQLCGASVVKELSSFTLGTGVHPIVVVQPDAWTEDNGFHAIG  180
+
+Query  1826  QMCEAPVVTREWVLDSVALYQCQELDTYLIPQIP  1859
+             QMCEAPVVTR+WVLDSVALYQCQELDTYLIPQIP
+Sbjct  181   QMCEAPVVTRKWVLDSVALYQCQELDTYLIPQIP  214
+
+
+
+
+>Chain A, TNF receptor-associated factor 6 [Homo sapiens]
+Sequence ID: 2JMD_A Length: 63
+Range 1: 8 to 46
+
+Score:43.9 bits(102), Expect:8e-05, 
+Method:Composition-based stats., 
+Identities:18/41(44%), Positives:26/41(63%), Gaps:2/41(4%)
+
+Query  23  ECPICLELIKEPVSTKCDHIFCKFCMLKLLNQKKGPSQCPL  63
+           ECPICL  ++E V T C H FCK C++K +  +    +CP+
+Sbjct  8   ECPICLMALREAVQTPCGHRFCKACIIKSI--RDAGHKCPV  46
+
+
+
+
+		
+
+

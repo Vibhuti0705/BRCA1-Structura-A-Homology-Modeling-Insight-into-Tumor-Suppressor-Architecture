@@ -1,0 +1,32 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+pdb|1JNX|X                 VNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFL	60
+pdb|3PXE|A                 VNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFL	60
+sp|P38398|BRCA1_HUMAN      ----------------------------MDLSALRVEEVQNVINAMQKILECPICLELIK	32
+pdb|2JMD|A                 -------------------------------------------GPLGSKYECPICLMALR	17
+                                                                              *   *  : 
+
+pdb|1JNX|X                 ---GIAGGKWVVSYFWVTQSIKERKMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFR	117
+pdb|3PXE|A                 ---GIAGGKWVVSYFWVTQSIKERKMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFR	117
+sp|P38398|BRCA1_HUMAN      EPVSTKCDHIF-CKFCMLKLLNQKK----------------GPSQCPLCKNDITKRSLQE	75
+pdb|2JMD|A                 EAVQTPCGHRF-CKACIIKSIRDA------------------GHKCPVDNEILLENQLFP	58
+                                  .: . .   : : :.:                     : *   .   ...:  
+
+pdb|1JNX|X                 GLEICCYGPFTNMPTDQLEWMVQLCGASVVKELSSFTLGTGVHPIVVV--------QPDA	169
+pdb|3PXE|A                 GLEICCYGPFTNMPTDQLEWMVQLCGASVVKELSSFTLGTGVHPIVVV--------QPDA	169
+sp|P38398|BRCA1_HUMAN      S------TRFSQLVE------------ELLKIICAFQLDTGLEYANSYNFAKKENNSPEH	117
+pdb|2JMD|A                 -------DNFAK------------------------------------------------	63
+                                    *::                                                
+
+pdb|1JNX|X                 W------TEDNGFHAIG-----QMCEAPVVTRE------------WVLDSVALYQCQELD	206
+pdb|3PXE|A                 W------TEDNGFHAIG-----QMCEAPVVTRK------------WVLDSVALYQCQELD	206
+sp|P38398|BRCA1_HUMAN      LKDEVSIIQSMGYRNRAKRLLQSEPENPSLQETSLSVQLSNLGTVRTLRTKQRIQPQKTS	177
+pdb|2JMD|A                 ------------------------------------------------------------	63
+                                                                                       
+
+pdb|1JNX|X                 TYLIPQIP	214
+pdb|3PXE|A                 TYLIPQIP	214
+sp|P38398|BRCA1_HUMAN      VYI-----	180
+pdb|2JMD|A                 --------	63
+                                   
